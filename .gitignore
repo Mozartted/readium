@@ -4,6 +4,7 @@
 vendor
 node_modules
 .sass-cache
+.vscode
 assets/fonts/FontAwesome.otf
 assets/fonts/fontawesome-webfont.eot
 assets/fonts/fontawesome-webfont.svg
